@@ -1,2 +1,2 @@
 # RPL
-Akses proses pembuataan aplikasi RPL
+SISTEM INFORMASI PRESENSI KELAS "PRESENT ON DAY"
